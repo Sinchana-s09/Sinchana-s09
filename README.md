@@ -42,13 +42,6 @@
 
 <br>
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sinchana-s09&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sinchana-s09&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<br>
 
 <p align="center">⭐️ Thanks for stopping by — feel free to explore my repos!</p>
