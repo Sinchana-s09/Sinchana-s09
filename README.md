@@ -12,7 +12,19 @@
 - 🎓 CSE undergraduate at **Alva's Institute of Engineering and Technology**, Moodbidri, Karnataka  
 - 💻 Currently exploring **Java & Web Technologies** and **Machine Learning**  
 - 🌱 I enjoy building projects that solve real, practical problems  
-- 📫 Let's connect on **[LinkedIn](https://linkedin.com/in/sinchana-s-5a68952a1)**
+
+<br>
+
+## 📫 Get in Touch
+
+<p align="left">
+  <a href="https://linkedin.com/in/sinchana-s-5a68952a1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:youremail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <br>
 
@@ -27,19 +39,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
-<br>
-
-## 📌 Featured Projects
-
-| Project | Description |
-|---|---|
-| 🔒 **[Women Safety Web Application](https://github.com/Sinchana-s09)** | A web app built around safety features for women |
-| 📅 **[Smart Planner](https://github.com/Sinchana-s09)** | A productivity and task-planning web application |
-| 🎨 **[Portfolio Builder](https://github.com/Sinchana-s09)** | A tool to help generate clean personal portfolios |
-| 🔐 **[Secured String Matching](https://github.com/Sinchana-s09)** | Exploring secure approaches to string matching |
-
-*(Swap in the actual repo links once added)*
 
 <br>
 
