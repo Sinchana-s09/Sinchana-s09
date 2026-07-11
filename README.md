@@ -17,7 +17,7 @@ class Sinchana:
         self.role       = "CSE undergrad @ Alva's Institute of Engineering and Technology"
         self.focus      = ["Secure systems", "Web apps", "Machine Learning"]
         self.currently  = "Prepping for interviews · learning Java web tech"
-        self.fun_fact   = "I'd rather fix a bug than write a new feature"
+        
 
     def reach_me(self):
         return {
